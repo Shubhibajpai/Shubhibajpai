@@ -9,20 +9,18 @@ and AI-powered automation using n8n.
 
 <div align="center">
 
-<br>
-
-<a href="https://shubhibajpai.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio%20↗-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" />
+<a href="https://shubhibajpai.github.io/Portfolio/" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/PORTFOLIO%20↗-111827?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/shubhibajpai51/">
-  <img src="https://img.shields.io/badge/LinkedIn%20↗-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
+<a href="https://www.linkedin.com/in/shubhibajpai51/" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/LINKEDIN%20↗-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" />
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Shubhibajpai">
-  <img src="https://img.shields.io/badge/GitHub%20↗-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
+<a href="https://github.com/Shubhibajpai" style="text-decoration:none;">
+  <img src="https://img.shields.io/badge/GITHUB%20↗-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
 </a>
 
 </div>
