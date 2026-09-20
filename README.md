@@ -1,16 +1,71 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Shubhibajpai/Shubhibajpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Shubhi Bajpai
 
-Here are some ideas to get you started:
+### 💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building production-ready web applications with React.js, Next.js, Node.js
+and AI-powered automation using n8n.
+
+[🌐 Portfolio](https://shubhibajpai.github.io/Portfolio/)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🚀 Build end-to-end applications using **React.js, Next.js, Node.js & Express.js**
+- 🔗 Develop and integrate **RESTful APIs** for seamless frontend-backend communication
+- 🔐 Implement **Role-Based Access Control (RBAC)**
+- 🗄️ Work with **MongoDB, MySQL & SQL** for database-driven applications
+- 🎨 Create **responsive, reusable & pixel-perfect interfaces**
+- 🤖 Build **AI-powered automation workflows using n8n** to streamline repetitive processes and connect different services
+- 📫 How to reach me: **bajpaishubhi51@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,css,html,tailwind,figma,bootstrap" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=materialui,antd" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,nodejs,express,mysql,php" />
+</p>
+
+### 🧰 Tools 
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shubhibajpai51/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Shubhibajpai">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</a>
+
+</p>
+
